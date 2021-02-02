@@ -1,5 +1,5 @@
 # Genucvalgum
-Check if you have Knock Knees or not.
+Application to check if you have genu valgum or not using the knee angle.
 
 ## Screenshot
 ![Screenshot](https://github.com/Rohan-cod/genucvalgum/blob/main/Screenshot_Streamlit.jpg)
